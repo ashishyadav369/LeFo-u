@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Ashish
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on Web Project
 - 📫 How to reach me 
 
